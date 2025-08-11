@@ -52,7 +52,6 @@ int pop(void)
 
 int main(void)
 {
-   int x;
    listinitialize();
 
    push(1);
