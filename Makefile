@@ -1,9 +1,9 @@
-CFLAGS = -Wall -Wextra -pedantic -std=c99 -static -fanalyzer
+CFLAGS = -Wall -Wextra -pedantic -std=c99 -static
 
 ch2 := gcd frac hello rgcd rchars bin alluv three largest fgcd
 ch3 := b2d move jos dbl push safter qafter lqueue
 ch4 := orders
-ch5 := center extlen extfr treecoor fib fact nrord line
+ch5 := center extlen extfr treecoor fib fact nrord line josrec eurec
 
 prog = $(ch2) $(ch3) $(ch4) $(ch5)
 

@@ -1,4 +1,4 @@
-// Write a recursive "divide-and-conquer" program to draw an approximation to
+// 8. Write a recursive "divide-and-conquer" program to draw an approximation to
 // the line segment connecting two points (x1, y1) and (x2, y2) by drawing
 // points using only integer coordinates. (Hint: first draw a point close to the
 // middle.)
